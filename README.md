@@ -35,16 +35,18 @@ To install and set up the project, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/NAMBIRAJA-M/qr-code-generator.git
+
 Navigate to the project directory:
-bash
-Copy code
+
 cd qr-code-generator
+
 Install the required dependencies:
-bash
-Copy code
+
 npm install
+
 Usage
+
 To start the web application, follow these steps:
 
 Run the application:
